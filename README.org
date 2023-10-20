@@ -4,6 +4,6 @@ OpenAPI-generator is an api client system generator.
 
 |---------+---------------------------------------------------------|
 | source  | git:https://codeberg.org/kilianmh/openapi-generator.git |
-| commit  | 805364d                                                 |
+| commit  | 3c32354                                                 |
 | systems | openapi-generator                                       |
 |---------+---------------------------------------------------------|

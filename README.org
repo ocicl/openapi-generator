@@ -7,3 +7,4 @@ OpenAPI-generator is an api client system generator.
 | commit  | f76d85e                                                 |
 | systems | openapi-generator                                       |
 |---------+---------------------------------------------------------|
+ 
